@@ -1,0 +1,20 @@
+{
+  "name": "react-image-crop-demo-with-classes",
+  "version": "1.0.0",
+  "description": "A basic demo of react-image-crop. https://github.com/DominicTobias/react-image-crop",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-image-crop": "8.6.12",
+    "react-scripts": "3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
